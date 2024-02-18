@@ -1,0 +1,20 @@
+{
+    "template_name" : "Wizard",
+    "strength" : "Moderate",
+    "constitution" : "Moderate",
+    "dexterity" : "Moderate",
+    "intelligence" : "High",
+    "wisdom" : "Moderate",
+    "charisma" : "Moderate",
+    "armor_class" : "Low",
+    "hit_points" : "Low",
+    "perception" : "Low",
+    "fortitude" : "Low",
+    "reflex" : "Moderate",
+    "will" : "Moderate",
+    "attack_bonus" : "Moderate",
+    "damage" : "Moderate",
+    "speed" : "",
+    "spell_dc" : "",
+    "skills" : {}
+}

@@ -1,0 +1,23 @@
+{
+    "template_name" : "Moderate",
+    "strength" : "Moderate",
+    "constitution" : "Moderate",
+    "dexterity" : "Moderate",
+    "intelligence" : "Moderate",
+    "wisdom" : "Moderate",
+    "charisma" : "Moderate",
+    "armor_class" : "Moderate",
+    "hit_points" : "Moderate",
+    "perception" : "Moderate",
+    "fortitude" : "Moderate",
+    "reflex" : "Moderate",
+    "will" : "Moderate",
+    "attack_bonus" : "Moderate",
+    "damage" : "Moderate",
+    "speed" : "",
+    "spell_dc" : "",
+    "skills" : {
+        "athletics": "Moderate",
+        "stealth": "Extreme"
+    }
+}

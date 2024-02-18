@@ -1,0 +1,136 @@
+{
+    "name": "Primal Spontaneous Spells",
+    "type": "spellcastingEntry",
+    "system": {
+      "description": {
+        "value": ""
+      },
+      "source": {
+        "value": ""
+      },
+      "traits": {
+        "value": [],
+        "rarity": "common",
+        "custom": ""
+      },
+      "rules": [],
+      "slug": null,
+      "schema": {
+        "version": 0.815,
+        "lastMigration": {
+          "datetime": "2023-06-04T13:08:41.836-04:00",
+          "version": {
+            "schema": null,
+            "foundry": "10.291",
+            "system": "4.6.6"
+          }
+        }
+      },
+      "ability": {
+        "value": "cha"
+      },
+      "spelldc": {
+        "value": 10,
+        "dc": 18
+      },
+      "tradition": {
+        "value": "primal"
+      },
+      "prepared": {
+        "value": "spontaneous"
+      },
+      "showUnpreparedSpells": {
+        "value": false
+      },
+      "showSlotlessLevels": {
+        "value": true
+      },
+      "proficiency": {
+        "value": 1
+      },
+      "displayLevels": {},
+      "slots": {
+        "slot0": {
+          "prepared": [],
+          "value": 0,
+          "max": 0
+        },
+        "slot1": {
+          "prepared": [],
+          "value": 0,
+          "max": 0
+        },
+        "slot2": {
+          "prepared": [],
+          "value": 0,
+          "max": 0
+        },
+        "slot3": {
+          "prepared": [],
+          "value": 0,
+          "max": 0
+        },
+        "slot4": {
+          "prepared": [],
+          "value": 0,
+          "max": 0
+        },
+        "slot5": {
+          "prepared": [],
+          "value": 0,
+          "max": 0
+        },
+        "slot6": {
+          "prepared": [],
+          "value": 0,
+          "max": 0
+        },
+        "slot7": {
+          "prepared": [],
+          "value": 0,
+          "max": 0
+        },
+        "slot8": {
+          "prepared": [],
+          "value": 0,
+          "max": 0
+        },
+        "slot9": {
+          "prepared": [],
+          "value": 0,
+          "max": 0
+        },
+        "slot10": {
+          "prepared": [],
+          "value": 0,
+          "max": 0
+        },
+        "slot11": {
+          "prepared": [],
+          "value": 0,
+          "max": 0
+        }
+      },
+      "autoHeightenLevel": {
+        "value": null
+      }
+    },
+    "_id": "bR0czRQwxzx34Zh2",
+    "img": "systems/pf2e/icons/default-icons/spellcastingEntry.svg",
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "3sSePXFBSmD9n2SM": 3
+    },
+    "flags": {},
+    "_stats": {
+      "systemId": "pf2e",
+      "systemVersion": "4.6.6",
+      "coreVersion": "10.291",
+      "createdTime": 1685898521843,
+      "modifiedTime": 1685898558595,
+      "lastModifiedBy": "3sSePXFBSmD9n2SM"
+    }
+  }

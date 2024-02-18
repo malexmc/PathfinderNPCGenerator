@@ -1,0 +1,23 @@
+{
+    "template_name" : "Skill_Paragon",
+    "strength" : "Moderate",
+    "constitution" : "Moderate",
+    "dexterity" : "High",
+    "intelligence" : "Low",
+    "wisdom" : "Moderate",
+    "charisma" : "Moderate",
+    "armor_class" : "High",
+    "hit_points" : "Moderate",
+    "perception" : "Moderate",
+    "fortitude" : "Low",
+    "reflex" : "High",
+    "will" : "Moderate",
+    "attack_bonus" : "Moderate",
+    "damage" : "High",
+    "speed" : "",
+    "spell_dc" : "",
+    "skills" : {
+        "athletics" : "High",
+        "stealth" : "Extreme"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "template_name" : "Skirmisher",
+    "strength" : "Moderate",
+    "constitution" : "Moderate",
+    "dexterity" : "High",
+    "intelligence" : "Moderate",
+    "wisdom" : "Moderate",
+    "charisma" : "Moderate",
+    "armor_class" : "Moderate",
+    "hit_points" : "Moderate",
+    "perception" : "Moderate",
+    "fortitude" : "Low",
+    "reflex" : "High",
+    "will" : "Moderate",
+    "attack_bonus" : "Moderate",
+    "damage" : "Moderate",
+    "speed" : "35",
+    "spell_dc" : "",
+    "skills" : {}
+}

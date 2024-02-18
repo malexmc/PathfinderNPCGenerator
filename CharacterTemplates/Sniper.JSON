@@ -1,0 +1,22 @@
+{
+    "template_name" : "Sniper",
+    "strength" : "Moderate",
+    "constitution" : "Moderate",
+    "dexterity" : "High",
+    "intelligence" : "Moderate",
+    "wisdom" : "Moderate",
+    "charisma" : "Moderate",
+    "armor_class" : "Moderate",
+    "hit_points" : "Low",
+    "perception" : "High",
+    "fortitude" : "Low",
+    "reflex" : "High",
+    "will" : "Moderate",
+    "attack_bonus" : "Moderate",
+    "damage" : "Extreme",
+    "speed" : "",
+    "spell_dc" : "",
+    "skills" : {
+        "stealth":"High"
+    }
+}

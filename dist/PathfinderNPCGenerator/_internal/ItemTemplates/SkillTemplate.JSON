@@ -1,0 +1,46 @@
+{
+    "_id": "c8R6Ee1LI7lY9vfT",
+    "img": "systems/pf2e/icons/default-icons/lore.svg",
+    "name": "Stealth",
+    "sort": 800000,
+    "system": {
+      "description": {
+        "value": ""
+      },
+      "source": {
+        "value": ""
+      },
+      "traits": {
+        "value": [],
+        "rarity": "common",
+        "custom": ""
+      },
+      "rules": [],
+      "slug": null,
+      "schema": {
+        "version": 0.815,
+        "lastMigration": null
+      },
+      "mod": {
+        "value": 3
+      },
+      "proficient": {
+        "value": 0
+      }
+    },
+    "type": "lore",
+    "effects": [],
+    "folder": null,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {},
+    "_stats": {
+      "systemId": null,
+      "systemVersion": null,
+      "coreVersion": null,
+      "createdTime": null,
+      "modifiedTime": null,
+      "lastModifiedBy": null
+    }
+  }

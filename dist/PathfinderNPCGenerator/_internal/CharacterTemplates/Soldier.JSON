@@ -1,0 +1,20 @@
+{
+    "template_name" : "Soldier",
+    "strength" : "High",
+    "constitution" : "Moderate",
+    "dexterity" : "Moderate",
+    "intelligence" : "Moderate",
+    "wisdom" : "Moderate",
+    "charisma" : "Moderate",
+    "armor_class" : "High",
+    "hit_points" : "Moderate",
+    "perception" : "Moderate",
+    "fortitude" : "High",
+    "reflex" : "Moderate",
+    "will" : "Moderate",
+    "attack_bonus" : "High",
+    "damage" : "High",
+    "speed" : "",
+    "spell_dc" : "",
+    "skills" : {}
+}

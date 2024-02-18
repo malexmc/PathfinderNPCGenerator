@@ -1,0 +1,24 @@
+{
+    "template_name" : "Spellcaster",
+    "strength" : "Moderate",
+    "constitution" : "Moderate",
+    "dexterity" : "Moderate",
+    "intelligence" : "Moderate",
+    "wisdom" : "Moderate",
+    "charisma" : "Extreme",
+    "armor_class" : "Moderate",
+    "hit_points" : "Low",
+    "perception" : "Moderate",
+    "fortitude" : "Low",
+    "reflex" : "Moderate",
+    "will" : "High",
+    "attack_bonus" : "Low",
+    "damage" : "Moderate",
+    "speed" : "",
+    "spell_dc" : "High",
+    "skills" : {
+        "deception": "High",
+        "society": "Moderate",
+        "arcana": "Low"
+    }
+}

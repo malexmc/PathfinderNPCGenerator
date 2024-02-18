@@ -1,0 +1,23 @@
+{
+    "template_name" : "Mutalase",
+    "strength" : "Moderate",
+    "constitution" : "Moderate",
+    "dexterity" : "Low",
+    "intelligence" : "Low",
+    "wisdom" : "Low",
+    "charisma" : "Low",
+    "armor_class" : "Moderate",
+    "hit_points" : "High",
+    "perception" : "Low",
+    "fortitude" : "Moderate",
+    "reflex" : "Low",
+    "will" : "Low",
+    "attack_bonus" : "Moderate",
+    "damage" : "Low",
+    "speed" : "10",
+    "spell_dc" : "",
+    "skills" : {
+        "athletics": "Moderate",
+        "stealth": "Low"
+    }
+}

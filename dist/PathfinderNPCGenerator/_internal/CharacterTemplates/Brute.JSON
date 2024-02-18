@@ -1,0 +1,20 @@
+{
+    "template_name" : "Brute",
+    "strength" : "High",
+    "constitution" : "High",
+    "dexterity" : "Low",
+    "intelligence" : "Low",
+    "wisdom" : "Low",
+    "charisma" : "Low",
+    "armor_class" : "Low",
+    "hit_points" : "High",
+    "perception" : "Low",
+    "fortitude" : "High",
+    "reflex" : "Moderate",
+    "will" : "Low",
+    "attack_bonus" : "High",
+    "damage" : "High",
+    "speed" : "",
+    "spell_dc" : "",
+    "skills" : {}
+}
